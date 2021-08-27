@@ -1,0 +1,69 @@
+* {
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
+/* ==============================
+               navbar
+    ============================== */
+.first-section-color {
+  background-color: #264653;
+}
+.btn-clr {
+  background-color: #e76f51;
+}
+
+/* ==============================
+               banner-section
+    ============================== */
+
+.color-for-p {
+  color: #e0e0e0;
+}
+
+/* ==============================
+            featured-section
+    ============================== */
+.featured-h6 {
+  color: #e76f51;
+}
+.line {
+  width: 70px;
+  justify-content: center;
+  margin: auto;
+  border: 1px solid #e76f51;
+}
+.img-filter {
+  filter: grayscale(100%);
+}
+
+/* ==============================
+        latest news-section
+    ============================== */
+
+/* ==============================
+        happy client says-section
+    ============================== */
+.image-round {
+  height: 190px;
+  width: 190px;
+  border-radius: 95px;
+  /* border-top-left-radius: 0; */
+}
+
+.star-color {
+  color: #e77c40;
+}
+/* ==============================
+        faq-section
+    ============================== */
+
+.faq-acc-border {
+  color: #d5e5fb;
+}
+.faq-text-color {
+  color: #7e848c;
+}
